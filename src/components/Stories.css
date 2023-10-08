@@ -13,7 +13,11 @@
     padding: 1rem;
     
 }
-
+@media screen and (max-width:720px) {
+    .box{
+        width: 80vw;
+    }
+}
 .title{
     font-size: 1.5rem;
     font-weight: "900";
