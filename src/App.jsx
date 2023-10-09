@@ -16,7 +16,7 @@ const App = () => {
           marginBottom: 30,
         }}
       >
-        <h1>Welcome To Newzify</h1>
+        <h1 style={{ letterSpacing: 1 }}>Welcome To Techify</h1>
         <p>A place where you find all the latest tech newz...</p>
       </div>
       <Search />
